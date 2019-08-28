@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/gogo/protobuf/proto"
-	"github.com/goraft/raft/protobuf"
+	"github.com/l453595892/raft/protobuf"
 )
 
 // Snapshot represents an in-memory representation of the current state of the system.
